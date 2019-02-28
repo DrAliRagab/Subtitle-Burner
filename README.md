@@ -21,3 +21,10 @@ You can download the **latest releases** from [HERE](https://github.com/DrAliRag
 
 ## COPYRIGHTS
 This software uses <a href=http://ffmpeg.org>FFmpeg</a> licensed under the <a href=https://www.gnu.org/licenses/old-licenses/gpl-2.0.html>GPLv2.0</a>.
+
+## If You want to build with VS
+after building add two folders named `32`, `64` in application folder each contains `x32`, `x64` versions of FFmpeg respectively.
+
+## TO DO
+
+batch mode
