@@ -405,4 +405,7 @@ Public Class Form1
 
     End Sub
 
+    Private Sub LinkLabel1_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel1.LinkClicked
+        Process.Start("https://github.com/DrAliRagab/Subtitle-Burner")
+    End Sub
 End Class
