@@ -17,7 +17,7 @@ You also can edit more subtitle options if you want.
 ***[THANKS to FFmpeg.](https://git.ffmpeg.org/gitweb/ffmpeg.git)***
 
 ## Download
-You can download the **latest releases** from [HERE]().
+You can download the **latest releases** from [HERE](https://github.com/DrAliRagab/Subtitle-Burner/releases).
 
 ## COPYRIGHTS
 This software uses code of <a href=http://ffmpeg.org>FFmpeg</a> licensed under the <a href=https://www.gnu.org/licenses/old-licenses/gpl-2.0.html>GPLv2.0</a>.
